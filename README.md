@@ -1,7 +1,7 @@
 # Papers 2025
 
 | Index | Year | Title | Author | Area |
-| - | - | - | - | - |
+| ----- | ---- | ----- | ------ | ---- |
 | 1 | 1948 | A Mathematical Theory of Communication | Claude E. Shannon | Cryptography |
 | 2 | 1971 | P vs. NP Problem | Stephen Cook | Cryptography |
 | 3 | 1976 | New Directions in Cryptography | Whitfield Diffie, Martin E. Hellman | Cryptography |
@@ -91,7 +91,6 @@
 | | 2019 | PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive Arguments of Knowledge | Ariel Gabizon, Zachary J. Williamson, Oana Ciobotaru | Criptografia |
 | | 2020 | Halo: Recursive Proof Composition without a Trusted Setup | Sean Bowe, Jack Grigg, Daira Hopwood | Criptografia |
 | | 2021 | Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS | N/A | Criptografia |
-| | | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto | Blockchain |
 | | 2014 | Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform | Vitalik Buterin | Blockchain |
 | | 2014 | Zerocash: Decentralized Anonymous Payments from Bitcoin | Eli Ben-Sasson et al. | Blockchain |
 | | 2016 | The Bitcoin Backbone Protocol: Analysis and Applications | Juan Garay, Aggelos Kiayias, Nikos Leonardos | Blockchain |
@@ -121,3 +120,10 @@
 | | 2022 | AI-Driven Blockchain Oracles for Smart Contracts | R. Gupta et al. | Blockchain + IA |
 | | 2023 | Privacy-Preserving Machine Learning in Blockchain Networks | Zhang et al. | Blockchain + IA |
 | | 2023 | AI-Powered Consensus Mechanisms for Blockchain | K. Li et al. | Blockchain + IA |
+| | 2008 | A Simple Totally Ordered Broadcast Protocol | Benjamin Reed, Flavio P. Junqueira | Distributed Systems|
+| | 2017 | SPHINCS: Practical Stateless Hash-Based Signatures | Daniel J. Bernstein, Daira Hopwood, Andreas Hülsing, Tanja Lange, et al. | Cryptography PostQuant |
+| | 2019 | Snowflake to Avalanche: A Novel Metastable Consensus Protocol Family for Cryptocurrencies | Team Rocket | Blockchain, Consensus |
+| | 2018 | Bulletproofs: Short Proofs for Confidential Transactions and More | Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, 1 et al. | Cryptography, ZKP |
+| | 2020 | Polkadot: Vision for a Heterogeneous Multi-Chain Framework | Gavin Wood | Blockchain, Interoperability |
+| | 2021 | Flash Boys 2.0: Front-Running in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability | Philip Daian, Steven Goldfeder, Tyler Kell, Yunqi 2 Li, et al. | Cryptography, Decentralized Finance (DeFi) |
+| | 2021 | Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS | Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, 3 et al. | Cryptography, ZKP |
